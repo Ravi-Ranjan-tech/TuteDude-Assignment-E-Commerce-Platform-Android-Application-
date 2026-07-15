@@ -1,0 +1,6 @@
+{
+  "name": "TuteDude E-Store",
+  "description": "An E-Commerce Android application with Firebase Authentication, Product Lists, Local Favorites (Room), and Product Uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
