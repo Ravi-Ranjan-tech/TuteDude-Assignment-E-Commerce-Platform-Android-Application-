@@ -447,7 +447,7 @@ app-release.apk
 - Full Stack Developer
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Ravi-Ranjan-tech
 
 LinkedIn:
 https://linkedin.com/in/ravi-ranjan-ab1b6a347
